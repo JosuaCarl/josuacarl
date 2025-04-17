@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Mass spectrometry and Machine Learning
-- 🌱 I’m currently learning to not go insane upon looking at MS data.
-- 😄 Pronouns: it
+- 🔭 I’m currently working on the nf-co2footprint plugin
+- 🌱 I’m currently learning a lot about CPU architecture and Carbon Intesity values.
 - ⚡ Fun fact: No fun, just wobbles.
