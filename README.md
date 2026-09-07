@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning a lot about CPU architecture and Carbon Intensity values.
 - ⚡ Fun fact: No fun, just wobbles.
 
-[Portfolio](https://josuacarl.github.io/Portfolio)
+If you want to know more about me, have a look at my [portfolio](https://josuacarl.github.io/Portfolio).
